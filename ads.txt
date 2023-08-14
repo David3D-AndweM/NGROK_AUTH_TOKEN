@@ -1,0 +1,10 @@
+# Ads.txt for Resilient Equity Green Tech Foundation
+
+google.com, pub-1234567890123456, DIRECT, f08c47fec0942fa0
+appnexus.com, 1234, DIRECT, f5ab79cb980f1dcd
+openx.com, 54321, DIRECT, 6a698e2ec38604c6
+rubiconproject.com, 9876, DIRECT, 0bfd66d529a55807
+indexexchange.com, 4567, DIRECT, 50b1c356f2c5c8fc
+pubmatic.com, 13579, DIRECT, 5d62403b186f2ace
+sovrn.com, 6789, DIRECT, 4d4c8e8b310e7278
+yieldmo.com, 2468, DIRECT, e1f528ff1a4f4500
